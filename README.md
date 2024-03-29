@@ -12,10 +12,8 @@ Um simples aplicativo web para verificar o clima do tempo de uma cidade.
 
 ## Como Usar
 
-1. Clone o repositório para o seu ambiente local.
-2. Abra `index.html` em um navegador web.
-3. Digite o nome da cidade na barra de busca e clique no botão de busca.
-4. A previsão do tempo para a cidade será exibida na página.
+1. Digite o nome da cidade na barra de busca e clique no botão de busca.
+2. A previsão do tempo para a cidade será exibida na página.
 
 ## Dependências Externas
 
